@@ -1,4 +1,4 @@
-## My Github Repository
+## My GitHub Repository
 ![Github Repo](qr_codes/QRCode_20261029224326.png "My QR Code Link")
 
 ## My DockerHub Image
